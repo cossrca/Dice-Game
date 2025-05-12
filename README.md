@@ -27,11 +27,3 @@ A simple interactive dice game built with HTML, CSS, and JavaScript.
   <img src="images/Dice-game-screenshot.png" alt="Screenshot of Dice Game" width="500"/>
 </p>
 
-
-_You can add a screenshot here later to show off the UI_
-
-## 🔗 Future Ideas
-
-- Add a score tracker
-- Multiplayer mode
-- Sound effects for rolls
