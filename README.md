@@ -1,6 +1,6 @@
 # 🎲 Dice Game
 
-A simple interactive dice game built with HTML, CSS, and JavaScript as part of my coding bootcamp.
+A simple interactive dice game built with HTML, CSS, and JavaScript.
 
 ## 🚀 Features
 
@@ -23,6 +23,10 @@ A simple interactive dice game built with HTML, CSS, and JavaScript as part of m
 - Basic game logic implementation
 
 ## 🖼️ Screenshot
+<p align="center">
+  <img src="images/Dice-game-screenshot.png" alt="Screenshot of Dice Game" width="500"/>
+</p>
+
 
 _You can add a screenshot here later to show off the UI_
 
