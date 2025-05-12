@@ -4,8 +4,7 @@ A simple interactive dice game built with HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
 
-👉 [Launch Drum Set](https://cossrca.github.io/Dice-Game/)
-
+👉 [Launch Dice Game](https://cossrca.github.io/Dice-Game/)
 
 ## 🚀 Features
 
