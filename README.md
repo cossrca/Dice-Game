@@ -2,6 +2,10 @@
 
 A simple interactive dice game built with HTML, CSS, and JavaScript.
 
+## 🚀 Live Demo
+
+👉 [Launch Dice Game](https://cossrca.github.io/Dice-Game/)
+
 ## 🚀 Features
 
 - Two dice roll on button click
